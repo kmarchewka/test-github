@@ -1,0 +1,2 @@
+Fold alt+cmd+[
+Join lines ^J
